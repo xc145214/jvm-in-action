@@ -4,3 +4,11 @@
     + [x] [运行时数据区域](DOC/01.runtime-data-region.md)
     + [x] [HotSpot 虚拟机对象探秘](DOC/01.hotspot-vm-object.md)
     + [x] [OutOfMemoryError 异常](DOC/01.hotspot-vm-object.md)
++ 垃圾收集器和分配策略
+    + [ ] [ 对象生存判断](DOC/02.object-live-or-dead.md)
+    + [ ] [ 垃圾收集算法](DOC/02.GC-algorithm.md)
+    + [ ] [ HotSpot 的算法实现](DOC/02.hotspot-impl.md)
+    + [ ] [ 垃圾收集器](DOC/02.xx.md)
+    + [ ] [ 内存分配和回收策略](DOC/02.xx.md)
++ 虚拟机性能监控和故障处理工具
+    + [ ] [jdk 命令行工具](DOC/03.jdk-cmd.md)
