@@ -13,11 +13,20 @@
 package com.xc.oom;
 
 /**
- * XXXXXXXXXXXXXXXXXXXXX
+ * String intern 方法测试。
  *
  * @author xiachuan at 2016/12/14 16:29。
  */
 
 public class StringIntern {
+
+    public static void main(String[] args) {
+        String str1 = new StringBuilder("计算机").append("软件").toString();
+
+        /**
+         * jdk 6 返回 false jdk 7 返回 true。
+         */
+        System.out.println(str1.intern() == str1);
+    }
 }
 
