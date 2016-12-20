@@ -24,7 +24,7 @@ public class FinalizeEscapeGC {
 
     public static FinalizeEscapeGC SAVE_HOOK = null;
 
-    public void isAlive(){
+    public void isAlive() {
         System.out.println("yes ,I am still alive :D");
     }
 
@@ -44,9 +44,9 @@ public class FinalizeEscapeGC {
 
         //finalize() 方法的优先级很低，暂停0.5秒等他它
         Thread.sleep(500);
-        if(SAVE_HOOK !=null){
+        if (SAVE_HOOK != null) {
             SAVE_HOOK.isAlive();
-        }else{
+        } else {
             System.out.println("no, I am dead :(");
         }
 
@@ -55,9 +55,9 @@ public class FinalizeEscapeGC {
         System.gc();
 
         Thread.sleep(500);
-        if(SAVE_HOOK !=null){
+        if (SAVE_HOOK != null) {
             SAVE_HOOK.isAlive();
-        }else{
+        } else {
             System.out.println("no, I am dead :(");
         }
 
