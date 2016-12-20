@@ -9,8 +9,8 @@
 + 垃圾收集器和分配策略
     + [x] [ 对象生存判断](DOC/02.object-live-or-dead.md)
     + [x] [ 垃圾收集算法](DOC/02.GC-algorithm.md)
-    + [ ] [ HotSpot 的算法实现](DOC/02.hotspot-impl.md)
-    + [ ] [ 垃圾收集器](DOC/02.xx.md)
+    + [x] [ HotSpot 的算法实现](DOC/02.hotspot-impl.md)
+    + [x] [ 垃圾收集器](DOC/02.collectors.md)
     + [ ] [ 内存分配和回收策略](DOC/02.xx.md)
 + 虚拟机性能监控和故障处理工具
     + [ ] [jdk 命令行工具](DOC/03.jdk-cmd.md)
