@@ -7,7 +7,6 @@
     + [x] [HotSpot 虚拟机对象探秘](DOC/01.hotspot-vm-object.md)
     + [x] [OutOfMemoryError 异常](DOC/01.hotspot-vm-object.md)
 + 垃圾收集器和分配策略
-<<<<<<< HEAD
     + [x] [ 对象生存判断](DOC/02.object-live-or-dead.md)
     + [x] [ 垃圾收集算法](DOC/02.GC-algorithm.md)
     + [x] [ HotSpot 的算法实现](DOC/02.hotspot-impl.md)
