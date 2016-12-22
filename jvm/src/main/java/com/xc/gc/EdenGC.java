@@ -107,7 +107,7 @@ public class EdenGC {
     }
 
     public static void main(String[] args) {
-        testPretenureSizeThreshold();
+        testHandlePromotion();
     }
 
 }
