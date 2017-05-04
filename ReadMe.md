@@ -14,3 +14,5 @@
     + [x] [ 内存分配和回收策略](DOC/02.memory-strategy.md)
 + 虚拟机性能监控和故障处理工具
     + [x] [jdk 命令行工具](DOC/03.jdk-cmd.md)
++ Java运行时区域详解
+    + [ ] [java 内存区域](DOC/04.data-region.md)

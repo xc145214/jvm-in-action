@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * 堆内存溢出
- * vm args: -Xms20m -Xmx20m  -XX:+HeapDumpOnOutOfMemoryError
+ * vm args: -Xms20m -Xmx20m  -XX:+HeapDumpOnOutOfMemoryError -XX:+PrintGCDetails
  *
  *
  * @author xiachuan at 2016/12/9 14:36。
