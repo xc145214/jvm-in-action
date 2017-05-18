@@ -14,7 +14,9 @@
     + [x] [ 内存分配和回收策略](DOC/02.memory-strategy.md)
 + 虚拟机性能监控和故障处理工具
     + [x] [jdk 命令行工具](DOC/03.jdk-cmd.md)
-+ Java运行时区域详解
-    + [ ] [java 内存区域](DOC/04.data-region.md)
-+ Java内存对象结构
-    + [ ] [ java 内存对象结构](DOC/04.memory-object-struct.md)
++ Java 运行时区域详解
+    + [x] [java 内存区域](DOC/04.data-region.md)
++ Java 内存对象结构
+    + [x] [ java 内存对象结构](DOC/05.memory-object-struct.md)
++ 类加载机制
+    + [x] [java 类加载机制](DOC/06.class-load.md)
