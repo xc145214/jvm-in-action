@@ -1,0 +1,3 @@
+Premain-class: com.xc.object.SizeOfObject
+Can-Redefine-Classes: false
+Boot-Class-Path:

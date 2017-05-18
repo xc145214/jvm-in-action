@@ -16,3 +16,5 @@
     + [x] [jdk 命令行工具](DOC/03.jdk-cmd.md)
 + Java运行时区域详解
     + [ ] [java 内存区域](DOC/04.data-region.md)
++ Java内存对象结构
+    + [ ] [ java 内存对象结构](DOC/04.memory-object-struct.md)

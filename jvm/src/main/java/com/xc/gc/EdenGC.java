@@ -13,6 +13,8 @@
 package com.xc.gc;
 
 
+import java.math.BigDecimal;
+
 /**
  *
  * @author xiachuan at 2016/12/22 9:56。
@@ -108,6 +110,10 @@ public class EdenGC {
 
     public static void main(String[] args) {
         testAllocation();
+
+        System.out.println(new BigDecimal("0.10"));
+
+        System.out.println("st1" +"str2");
     }
 
 }
